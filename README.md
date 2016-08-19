@@ -8,5 +8,5 @@ WebPlus是许多高校均使用的网站群搭建平台。xxxy是一套基于web
 * 详情页的和列表页的页头背景图片在index.js中有个数组定义
 
 ## 实际展示效果图
-[效果图](https://o1evmtv09.qnssl.com/psb.jpg)
+<img src="https://o1evmtv09.qnssl.com/psb.jpg" width="600">
 
