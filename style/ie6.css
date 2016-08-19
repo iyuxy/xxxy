@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.picnews p span{
+	line-height:30px;
+}
+.columnStyle{
+	    width: 98%;
+    	height: 30px;
+   		 line-height: 30px;
+   	 	font-size: 14px;
+   		 padding-left: 20px;
+		 text-indent:2em;
+  		 background:url(../images/ico.gif) 0px 2px no-repeat;
+}
+#menu1,#menu2,#menu3,#menu4,#menu5,#menu6,#menu7,#menu8{
+	width:140px;
+	}
